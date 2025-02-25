@@ -1,6 +1,18 @@
 # test_fs
 Aplikasi blog sederhana dengan fitur CRUD untuk artikel. Proyek ini terdiri dari backend (Flask + MySQL) dan frontend (React).
 
+## Persyaratan
+- XAMPP atau server MySQL harus berjalan (untuk database).
+- Python 3 dan Flask harus diinstal.
+- Node.js dan npm harus diinstal (untuk frontend).
+
+## Cara Menjalankan Aplikasi Secara Lokal
+
+### Backend
+1. Pastikan MySQL berjalan (misalnya melalui XAMPP).
+2. Buka folder `backend_python` dan jalankan:
+   ```bash
+   python app.py
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
