@@ -12,7 +12,9 @@ Aplikasi blog sederhana dengan fitur CRUD untuk artikel. Proyek ini terdiri dari
 1. Pastikan MySQL berjalan (misalnya melalui XAMPP).
 2. Buka folder `backend_python` dan jalankan:
    ```bash
-   python app.py
+   1. npm start
+   2. Ctrl + C untuk keluar 
+   3. python app.py (masih di folder backend_python)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
